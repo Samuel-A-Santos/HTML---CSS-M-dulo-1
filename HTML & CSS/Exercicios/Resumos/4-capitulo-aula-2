@@ -1,0 +1,4 @@
+! + enter cria a base do arquivo HTML
+h1 = headind, titulo, se trata do titulo de um site de noticias por ex: "descubra agora o caso do lazaro"
+hr = cria uma linha horizontal onde voce determinar, ex entre o h1 e o p para o espaçamento entre um e outro.
+p = paragrafo, texto que explica a noticia, ex: "explicação sobre o caso do lazaro"
