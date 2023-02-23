@@ -1,0 +1,7 @@
+Para marcar yum texto tipo um marca texto, podemos utilizar a tag, mark, já para mudar a cor do marca texto, dentro da primeira tag mark, adicionamos a tag style"background-color:black; já se tiver muitas marcações é mais facil, colocar a tag mark em todos os textos necessarios e criar um style <style> mark{
+    background-color: black;
+}<style
+Para criar uma palavra com letras grandes e letras pequenas, na criação da letra grande utilizamos, o css, já para o texto pequeno, podemos usar a tag, <small>. 
+
+Para criar um texto "deletado", mas que mesmo assim voce queria mostrar, utilizamos a tag, <del> e também para indicar que um texto foi inserido depois, utilizamos a tag <ins>
+Para adicionarmos textos sobrescritos ou subscritos utilizamos a tag, sup para sobrescritos, e sup para substritos, ex: x^20+3 usamos <sup></sup> já para ex H20 <sub></sub>.

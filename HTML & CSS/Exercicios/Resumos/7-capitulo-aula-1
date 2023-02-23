@@ -1,0 +1,24 @@
+As hierarquias de titulos são divididas por niveis, titulo e subtitulo, então se um sumario por exemplo:
+eu tenho o titulo principal, e depois eu tenho 2 subtitulos, que representam o sumario. Este é o exemplo de hierarquia de titulos.
+<body>
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <h3>Justificação...</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid ut maxime eaque perspiciatis tempore eius, nisi voluptas mollitia aperiam quibusdam officia eos incidunt blanditiis alias, similique illum accusamus veniam.</p>
+    <h3>Carater...</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid ut maxime eaque perspiciatis tempore eius, nisi voluptas mollitia aperiam quibusdam officia eos incidunt blanditiis alias, similique illum accusamus veniam.</p>
+    <h3>Perguntas...</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid ut maxime eaque perspiciatis tempore eius, nisi voluptas mollitia aperiam quibusdam officia eos incidunt blanditiis alias, similique illum accusamus veniam.</p>
+    <h3>Metodologia...</h3>
+    <h4>Etapas...</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid ut maxime eaque perspiciatis tempore eius, nisi voluptas mollitia aperiam quibusdam officia eos incidunt blanditiis alias, similique illum accusamus veniam.</p>
+    <h4>Instrumentos...</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid ut maxime eaque perspiciatis tempore eius, nisi voluptas mollitia aperiam quibusdam officia eos incidunt blanditiis alias, similique illum accusamus veniam.</p>
+    <h2>O ordenamento...</h2>
+    <h3>Instrumentos...</h3>
+    <h4>Os instrumentos...</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid ut maxime eaque perspiciatis tempore eius, nisi voluptas mollitia aperiam quibusdam officia eos incidunt blanditiis alias, similique illum accusamus veniam.</p>
+    <h4>Os regimes...</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid ut maxime eaque perspiciatis tempore eius, nisi voluptas mollitia aperiam quibusdam officia eos incidunt blanditiis alias, similique illum accusamus veniam.</p>
+</body>
+</html>
