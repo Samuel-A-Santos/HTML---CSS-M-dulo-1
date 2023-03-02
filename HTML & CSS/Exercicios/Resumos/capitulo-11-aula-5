@@ -1,0 +1,9 @@
+Para colocar um video no site, é bem facil tambem, basta usar a tag <video> e no src colocar o caminho onde o video está.Mas dessa forma não é possivel adicionar todos os formatos possiveis> para colocar mais formatos, temos que criar os próprios sources, ficaria assim:
+    <video>
+        <source src="caminho do video" type="ex: video/mp4">
+    </video>
+Caso voce queira colocar uma capa diferente para o video, escolha uma imagem e siga o exemplo:
+<video poster="imagem que deseja">
+    <source src="" type="">
+</video>
+Esta forma é a forma "errada"de colocar um video, pois consumirar muita banda, e o site ficará bem lento.

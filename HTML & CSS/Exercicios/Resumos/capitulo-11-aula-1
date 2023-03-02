@@ -1,0 +1,3 @@
+Adaptação de sites em multiplas plataformas, ex: tablet, celular, computador, tv, etc. Ao criar um site é importante não pensar so na sua tela, provavelmente voce fará um site lindo para uma tela do tamanho do monitor, mas quando chega em uma menor ex um celular, o site ficará ruim.Para isso é a explicação de hoje.
+Abra o gimp - arquivo - nova - opções avançadas, e se voce deseja uma determinada imagem para aparecer no seu site, coloque ela em todas as resoluções padrões, para celular, tv, tablet, monitor, etc.
+A resolução 300x300 é geralmente utilizada para celular, 700x700 pode ser usada para tablets, e 1000x1000 pode ser usada para monitores tvs etc.

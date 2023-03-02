@@ -1,0 +1,8 @@
+Para criar fotos ou imagens que sejam adaptaveis a qualquer dispositivo, usamos a tag <picture>, adicione a imagem normalmente usando a tag <img> dentro de picture,acima de imagem adicione a tag source, ficariam assim na pratica
+<picture>
+    <source media="(max-width: 750px)" srcset="menor imagem ex 300x300" type="image/">
+    <source media="(max-width: 1050px)" srcset="segunda maior imagem ex 700x700" type="image/tipo da imagem, png, jpeg etc">
+    <img src="maior imagem, ex de 1000x1000" alt="">
+</picture>
+
+Sempre colocar 50px pra mais, para evitar bugs, então seria 1050, 750

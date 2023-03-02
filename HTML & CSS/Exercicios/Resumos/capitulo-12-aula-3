@@ -1,0 +1,5 @@
+E agora temos o 3 estilo, que é o melhor de todos, que se chama estilo externo, para esse estilo é criado um novo arquivo apenas para as css.Para linkar é bem facil, é so digitar "link" dentro do head, e escolher link:css, vai ser criado <linl rel="stylesheet" href="style.css"> Após ter isso em mãos, basta segurar ctrl e clicar no "style.css" ele irá criar o arquivo automaticamente. Ao entrar na parte das css, é importante colocar @charset="UTF-8" para que as css não tenham problema com o html e o navegador.
+Melhores tecnicas:
+inline: Basicamente nunca usar, usar apenas para algo pontual como, um paragrafo de apenas uma pagina precisa ser trocado.
+internos: Evitar tambem, é bom mas quando tem o externo, nenhum dos dois fazem sentidos.
+externos: Sempre utilizar, será o melhor em 99% dos casos.

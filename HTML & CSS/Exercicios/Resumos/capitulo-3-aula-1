@@ -1,0 +1,37 @@
+HTML = HyperText Markup Language
+CSS = Cascading Style Sheets
+HTML é uma linguagem focada em conteudo, texto, video, imagem, tabela etc...
+CSS = design, cores, sombras, tamanho, posicionamento...
+JS = interações, menus, animações, popups, validações etc...
+Conteudo em HTML
+titulo = <h1>titulo</h1>
+paragrafo = <p>paragrafo</p>
+fotos = <img src="foto.png" alt="exemplo de foto">
+
+img = abertuda da tag
+alt = parametro para editar no css por exemplo
+exemplo de foto = valor do parametro / texto alternativo caso dê errado
+
+estilo css h1{
+    font - family: Arial;
+    font-size: 13px;
+    color: black;
+}
+
+cada declaração é um par de propriedades e valores.
+
+
+estrutura html 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html</title>
+</head>
+<body>
+    
+</body>
+</html>

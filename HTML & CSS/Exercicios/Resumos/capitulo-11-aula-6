@@ -1,0 +1,6 @@
+Para colocar o video de uma forma mais "saúdavel" para que não consuma tanta banda, iremos usar o youtube, por exemplo, o youtube irá hospedar nosso video.
+Procure um video no youtube, e clique em "Compartilhar" - incorporar - ele vai gerar um código html pronto, já copiado, Apenas cole no vscode, ex:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jFJoWegTv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Além do youtube, existe também a plataforma "Vimeo" que também é um site que funciona igual o youtube, a diferença é que ele é pago, e que é possivel "privar" o video que voce utilizar no seu site de outras pessoas, o passo para colocar no vscode, é basicamente o mesmo do youtube.

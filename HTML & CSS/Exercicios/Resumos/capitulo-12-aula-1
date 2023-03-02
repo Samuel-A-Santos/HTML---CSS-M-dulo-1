@@ -1,0 +1,18 @@
+Nesse capitulo é introduzido as CSS, primeiramente com o estilo inline, que não é muito utilizado exemplo:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciando as css/estilos inline</title>
+</head>
+<body style="background-color: deepskyblue; font-family: Arial, Helvetica, sans-serif;">
+    <h1 style="color: aquamarine;">Capitulo 1</h1>
+    <h2>Capitulo 1.1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ducimus alias optio possimus earum neque nobis modi corrupti quibusdam facilis temporibus recusandae veritatis ea voluptatibus sequi, amet provident assumenda esse.</p>
+    <h1 style="color: aquamarine;">capitulo 2</h1>
+    <p style="font-family: 'Courier New', Courier, monospace; background-color: aqua; color: aquamarine;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione, optio, totam illo natus placeat velit necessitatibus nisi ab officia harum atque quasi a delectus dolor rerum dignissimos, eius similique quisquam?</p>
+
+    Esse estilo é muito ruim para manutenção, e também é muito confuso na visualização do código.
