@@ -1,9 +1,0 @@
-Ponto A (eu) digito o nome do site, DNS traduz o nome digitado e me devolve o IP, e o IP vai até o servidor onde o site está os primeiros códigos estarão no localhost, e outro computador que eu enviar meu código do meu site, não verá o site, pois está no localhost. Pra que eu consiga compartilhar meu site, eu preciso de um dominio, tambem de um servidor (hospedagem)
-Dominio = nome único, pago anualmente, vários TLD's 
-Hospedagem = espaço para armazenar arquivos (nuvem) pago mensalmente, espaço, memoria, recursos ex: banco de dados, php etc...
-URL(localizador de recurso unico) = www.github.com/samu3l2
-servidor IPV4 possuem 32 bits, já o IPV6 128 bits.
-github = dominio
-.com = TLD, ou GTLD para genericos / CCTLD  para identificar países, ex: .com.br
-WWW = subdominio
-/sadasdasdas = caminho

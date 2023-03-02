@@ -1,8 +1,0 @@
-Binary, representação de dados 0 e 1, digitos binarios = bit, 8 bits é o minimo para representação de algo que se chama byte, então 8 bits = 1 byte
-1024 bytes = 1KB
-MB = megabytes = armazenamento de arquivos.
-Mb = megabit = transmissão de rede etc.
-O celular não entende a transmissão do computador por isso é utilizado o modem.
-computador    =>  modulação         modem                                    internet
-digital       <=  demodulação       analogico                                servidor
-Servidor DNS (sistema de nome de dominio) o DNS é utilizado para "traduzir" o IP de um site.

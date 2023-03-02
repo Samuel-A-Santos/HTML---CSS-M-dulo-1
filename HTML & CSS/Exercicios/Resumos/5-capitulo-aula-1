@@ -1,8 +1,0 @@
-O paragrafo pode ser escrito de qualquer forma, ex:
-<!--<<p>oi
-meu
-dia
-foi
-bom<p/>>--> o resultado vai ser sempre um texto formatado. Se quiser quebrar a linha em algum lugar, eu utilizo a tag <br>
-Ao utilizar o &lt; eu faço o sinal de menor que, sem que seja considerado um "codigo" ao usar o &gt; faço o sinal de maior que.
-

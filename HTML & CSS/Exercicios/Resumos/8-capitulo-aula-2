@@ -1,2 +1,0 @@
-Algumas tags obsoletas, são por exemplo:
-<b> era uma tag utilizada para colocar um texto em negrito, mas ela não é uma tag semantica, hoje é dia é utilizada a tag <strong></strong> para colocar o texto em negrito. Para envelopar um texto, que voce queria em negrito, basta selecionar com o mouse o texto ou palavra, segurar ctrl+shift+p apertar enter, e escrever strong, e então a frase marcada ficará em negrito, para colocar italico é o mesmo seguimento, mas ao invés da tag negrito => strong coloca a tag italico => (em)
